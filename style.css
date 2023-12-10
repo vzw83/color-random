@@ -29,6 +29,7 @@ body{
     cursor: pointer;
 }
 .col button{  
+    outline: none;
     font-size: 20px;  
     border: none;
     border-radius: 10px;
